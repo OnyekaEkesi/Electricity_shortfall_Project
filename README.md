@@ -25,7 +25,7 @@ pip install -U matplotlib numpy pandas scikit-learn <br>
 
 ## Result 
 
-We were able to visualize the three hourly shortfall by days of the week from the dataset as seen in the graph below: 
+We were able to visualize the three hourly shortfall by 24 hours in day from the dataset as seen in the graph below: 
 
 <p align = 'center'>
 <img width="700" height="400" src = 'https://github.com/OnyekaEkesi/Pics_for_github_project_readme/blob/main/load-shortfall/insight.jpg?raw=true'>
